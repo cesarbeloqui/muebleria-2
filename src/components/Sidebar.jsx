@@ -11,7 +11,7 @@ import RedesButton from "./RedesButton";
 
 const Sidebar = () => {
   const { isSidebarOpen, closeSidebar } = useProductsContext();
-  const { myUser } = useUserContext();
+  console;
   return (
     <SidebarContainer>
       <aside
@@ -34,15 +34,7 @@ const Sidebar = () => {
               </li>
             );
           })}
-          {myUser && (
-            <li>
-              <Link to="/checkout" onClick={closeSidebar}>
-                checkout
-              </Link>
-            </li>
-          )}
         </ul>
-
         <CartButtons />
         <RedesButton />
       </aside>
@@ -55,7 +47,6 @@ const SidebarContainer = styled.div`
   background-color: var(--primario);
   .sidebar-header {
     display: flex;
-    margin: 16rem 0;
     justify-content: space-between;
     align-items: center;
     padding: 1rem 1.5rem;
