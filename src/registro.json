@@ -1,0 +1,306 @@
+{
+  "carpetas": [
+    {
+      "id": "997b0476-b532-45ae-b053-70e1ec0e45e4",
+      "nombre": "Cocina con isla",
+      "imagenes": [
+        "Adobe_Express_20231104_1820440_1.png",
+        "Adobe_Express_20231104_1821120_1.png",
+        "Adobe_Express_20231104_1822060_1.png",
+        "Adobe_Express_20231104_1822350_1.png",
+        "Adobe_Express_20231104_1823160_1.png",
+        "Adobe_Express_20231104_1824060_1.png",
+        "Adobe_Express_20231104_1824370_1.png",
+        "Adobe_Express_20231104_1824460_1.png",
+        "Adobe_Express_20231104_1825160_1.png"
+      ],
+      "descripcion": "Cocina isla \nEstilo: minimalista\nColor: blanco y seda giorno\nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nManijas cilindro color negro \nIsla: 3 puertas de abrir con estantes y con ruedas. \nCategoría: Cocina"
+    },
+    {
+      "id": "85c1593f-6c4e-412d-81c3-536df74e5478",
+      "nombre": "Cocina con isla 2",
+      "imagenes": [
+        "Adobe_Express_20231104_1838550_1.png",
+        "Adobe_Express_20231104_1839270_1.png",
+        "Adobe_Express_20231104_1840080_1.png",
+        "Adobe_Express_20231104_1840490_1.png",
+        "Adobe_Express_20231104_1842210_1.png",
+        "Adobe_Express_20231104_1843010_1.png"
+      ],
+      "descripcion": "Cocina isla 2\nEstilo: minimalista\nColor: blanco\nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nManijas perfil c de aluminio.\nIsla: 3 puertas de abrir con estantes.\nCategoría: Cocina"
+    },
+    {
+      "id": "c113d42a-11e7-4334-a292-b1d0a03c6b65",
+      "nombre": "Cocina vintage 1",
+      "imagenes": [
+        "Adobe_Express_20231012_2335370_1.png",
+        "Adobe_Express_20231012_2337150_1.png",
+        "Adobe_Express_20231012_2337490_1.png",
+        "Adobe_Express_20231012_2338140_1.png",
+        "Adobe_Express_20231012_2338450_1.png",
+        "Adobe_Express_20231012_2339050_1.png",
+        "Adobe_Express_20231012_2340510_1.png",
+        "Adobe_Express_20231012_2341140_1.png",
+        "Adobe_Express_20231012_2341430_1.png",
+        "Adobe_Express_20231012_2342060_1.png",
+        "Adobe_Express_20231012_2342270_1.png"
+      ],
+      "descripcion": "Cocina vintage simple sin manijas \nEstilo: vintage \nColor: blanco \nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nSeca plato en alacena. \nCategoría: Cocina"
+    },
+    {
+      "id": "6d9b0e0f-ecbb-4e02-84ad-5fb5ae91e90a",
+      "nombre": "Cocina vintage 3",
+      "imagenes": [
+        "Adobe_Express_20231113_2030330_1.png",
+        "Adobe_Express_20231113_2031010_1.png",
+        "Adobe_Express_20231113_2031410_1.png",
+        "Adobe_Express_20231113_2032250_1.png",
+        "Adobe_Express_20231113_2032570_1.png",
+        "Adobe_Express_20231113_2033240_1.png",
+        "Adobe_Express_20231113_2033520_1.png",
+        "Adobe_Express_20231113_2034230_1.png"
+      ],
+      "descripcion": "Cocina vintage fresado \nEstilo: vintage \nColor: blanco interior puertas azul\nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nTirador ochava. \nCategoría: Cocina"
+    },
+    {
+      "id": "2944f1d0-c349-49dd-8801-944896a02779",
+      "nombre": "Cocinas 120 y 2mt",
+      "imagenes": [
+        "Adobe_Express_20231110_1832580_1.png",
+        "Adobe_Express_20231110_1833470_1.png",
+        "Adobe_Express_20231110_1834030_1.png",
+        "Adobe_Express_20231110_1845430_1.png",
+        "Adobe_Express_20231110_1846080_1.png",
+        "Adobe_Express_20231110_1846320_1.png",
+        "Adobe_Express_20231110_1847290_1.png",
+        "Adobe_Express_20231110_1848020_1.png",
+        "Adobe_Express_20231110_1848510_1.png",
+        "Adobe_Express_20231110_1849190_1.png",
+        "Adobe_Express_20231110_1849510_1.png"
+      ],
+      "descripcion": "Cocina minimalista 120 140 2mt \nEstilo: minimalista \nColor: blanco o color madera\nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nManija perfil.\nCategoría: Cocina"
+    },
+    {
+      "id": "cc6373fa-6a67-4050-9e4d-bbb29554c96a",
+      "nombre": "Cocinas vintage 2",
+      "imagenes": [
+        "Adobe_Express_20231113_2027190_1.png",
+        "Adobe_Express_20231113_2027350_1.png",
+        "Adobe_Express_20231113_2028180_1.png",
+        "Adobe_Express_20231113_2028590_1.png",
+        "Adobe_Express_20231113_2029230_1.png"
+      ],
+      "descripcion": "Cocina vintage simple\nEstilo: vintage \nColor: blanco interior puertas gris \nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nTirador ochava. \nSeca plato.\nCategoría: Cocina"
+    },
+    {
+      "id": "a7964523-dcfe-4a86-8d3c-6ae5e79a6751",
+      "nombre": "Escritorio ejecutivo",
+      "imagenes": [
+        "Adobe_Express_20231104_1827490_1.png",
+        "Adobe_Express_20231104_1828170_1.png",
+        "Adobe_Express_20231104_1828490_1.png"
+      ],
+      "descripcion": "Escritorio ejecutivo\n1 cajón a lo largo.\nTerminación con cuerina y vidrio con mdf laminado.\nCategoría: Oficina"
+    },
+    {
+      "id": "bae8b7f9-b60a-468a-be17-9f7e55ad3b48",
+      "nombre": "Maquillador mini 80",
+      "imagenes": [
+        "Adobe_Express_20231223_1549540_1.png",
+        "Adobe_Express_20231223_1550170_1.png",
+        "Adobe_Express_20231223_1550580_1.png"
+      ],
+      "descripcion": "Maquillador mini 80\n1 cajón \n7 focos\nIncluye vidrio y espejo.\nCategoría: Maquilladores"
+    },
+    {
+      "id": "0ea82c4b-6131-42f6-a6cd-8761fcbfbc12",
+      "nombre": "Maquillador premium 130",
+      "imagenes": [
+        "Adobe_Express_20231010_0806460_1.png",
+        "Adobe_Express_20231010_0807110_1.png"
+      ],
+      "descripcion": "Maquillador premium 130\n7 cajónes\n10 focos\nIncluye vidrio y espejo.\nCategoría: Maquilladores"
+    },
+    {
+      "id": "268b8165-3d07-4eac-af20-1f8e27a60e6f",
+      "nombre": "Placard 120_180 1 Módulo",
+      "imagenes": [
+        "Adobe_Express_20231009_2018010_1.png",
+        "Adobe_Express_20231009_2018240_1.png",
+        "Adobe_Express_20231009_2018470_1.png"
+      ],
+      "descripcion": "Placard 120*180*55\n2 cajones \n6 cubos \n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Maquilladores"
+    },
+    {
+      "id": "dc44ff98-2d5b-4293-b99b-ad957903adb9",
+      "nombre": "Placard 120_250_55",
+      "imagenes": [
+        "Adobe_Express_20231208_2108240_1.png",
+        "Adobe_Express_20231208_2108530_1.png",
+        "Adobe_Express_20231208_2109150_1.png"
+      ],
+      "descripcion": "Placard 120*240*55\n3 cajones \n4 estantes \n1 baulera \n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
+    },
+    {
+      "id": "a736dfb2-0a86-479e-8cb8-d02525078703",
+      "nombre": "Placard 180_240 2 módulos",
+      "imagenes": [
+        "Adobe_Express_20231005_1512450_1.png",
+        "Adobe_Express_20231005_1513030_1.png",
+        "Adobe_Express_20231005_1513180_1.png"
+      ],
+      "descripcion": "Placard 180*240*55 \n2 módulos \n4 cajones \n8 estantes \n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
+    },
+    {
+      "id": "79556ba2-02f5-4673-905f-01ea6ffb42d6",
+      "nombre": "Placard 240 estándar",
+      "imagenes": [
+        "Adobe_Express_20231116_2159430_1.png",
+        "Adobe_Express_20231116_2200130_1.png",
+        "Adobe_Express_20231116_2200400_1.png",
+        "Adobe_Express_20231116_2200550_1.png",
+        "Adobe_Express_20231116_2201140_1.png"
+      ],
+      "descripcion": "Placard 240*180*55 \n2 módulos \n4 cajones \n8 estantes\n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
+    },
+    {
+      "id": "4e2f25a1-7f1b-47b9-a882-0b3ed8872c88",
+      "nombre": "Placard 240_240_55",
+      "imagenes": [
+        "Adobe_Express_20231218_2044360_1.png",
+        "Adobe_Express_20231218_2044530_1.png",
+        "Adobe_Express_20231218_2045090_1.png",
+        "Adobe_Express_20231218_2045220_1.png"
+      ],
+      "descripcion": "Placard 240*240*55 \n2 módulos \n4 cajones \n8 estantes\n2 percheros\n3 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
+    },
+    {
+      "id": "fa741c53-a149-47f6-8953-9d68ceb79b3c",
+      "nombre": "Placard 250_250_60",
+      "imagenes": [
+        "Adobe_Express_20231115_2304250_1.png",
+        "Adobe_Express_20231115_2304430_1.png",
+        "Adobe_Express_20231115_2304590_1.png",
+        "Adobe_Express_20231115_2306530_1.png",
+        "Adobe_Express_20231115_2307140_1.png"
+      ],
+      "descripcion": "Placard 250x250x60\n2 módulos \n6 cajones \n8 estantes\n5 percheros\n3 puertas corredizas\n4 bandejeros zapatos \nColor blanco o madera.\nCategoría: Placares"
+    },
+    {
+      "id": "4c6b71af-ee78-4aa9-82a6-955eb5f18045",
+      "nombre": "Placard 300_280_60",
+      "imagenes": [
+        "Adobe_Express_20231024_1001160_1.png",
+        "Adobe_Express_20231024_1001430_1.png",
+        "Adobe_Express_20231024_1002200_1.png",
+        "Adobe_Express_20231024_1002420_1.png",
+        "Adobe_Express_20231024_1003010_1.png",
+        "Adobe_Express_20231024_1003190_1.png"
+      ],
+      "descripcion": "Placard 300x280x60\n1 baulera \n11 cajones \n8 estantes\n2 percheros\n4 puertas corredizas\n4 zapateros\nColor blanco o madera.\nCategoría: Placares"
+    },
+    {
+      "id": "7dee5dc4-6580-47a8-b4c9-42d413b87e12",
+      "nombre": "Placard tv",
+      "imagenes": [
+        "Adobe_Express_20231102_1143100_1.png",
+        "Adobe_Express_20231102_1143330_1.png",
+        "Adobe_Express_20231102_1144070_1.png",
+        "Adobe_Express_20231102_1144490_1.png"
+      ],
+      "descripcion": "Placard tv 250x250x60\n3 bauleras\n8 estantes\n4 percheros\n1 espacio tv \nPuertas de abrir.\nColor blanco o madera.\nCategoría: Placares"
+    },
+    {
+      "id": "46070866-6d87-40b1-a9b9-e08aa53aadec",
+      "nombre": "Placard un módulo 180_240 un módulo",
+      "imagenes": [
+        "Adobe_Express_20231009_2014380_1.png",
+        "Adobe_Express_20231009_2015240_1.png"
+      ],
+      "descripcion": "Placard 180x240x55 un módulo\n1 módulos \n2 cajones \n4 estantes\n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
+    },
+    {
+      "id": "f234ce18-dfea-43c0-ac29-ef5db179b826",
+      "nombre": "Rack modular",
+      "imagenes": [
+        "Adobe_Express_20231220_0030380_1.png",
+        "Adobe_Express_20231220_0031080_1.png",
+        "Adobe_Express_20231220_0031320_1.png",
+        "Adobe_Express_20231220_0031490_1.png",
+        "Adobe_Express_20231220_0032130_1.png"
+      ],
+      "descripcion": "Rack módular premium 3mt  + escritorio\n3 puertas \n3 puertas bauleras \n1 escritorio\n1 Módulo estantes \n5 estantes \nCategoría: Living"
+    },
+    {
+      "id": "66062cc5-7526-4947-9ec0-52d2aec0c5ff",
+      "nombre": "Vestidor en L",
+      "imagenes": [
+        "Adobe_Express_20231102_1137430_1.png",
+        "Adobe_Express_20231102_1139290_1.png",
+        "Adobe_Express_20231102_1140050_1.png",
+        "Adobe_Express_20231102_1142330_1.png"
+      ],
+      "descripcion": "Vestidor L 3x3\n1 módulos \n5 cajones \n4 estantes\n2 bandejas \n2 percheros\n2 bandejas zapateros\n2 bandejeros módulos \nColor blanco o madera.\nCategoría: Vestidores"
+    },
+    {
+      "id": "a47f4b6a-9c7c-4ae4-bac9-8dff8492af95",
+      "nombre": "Vestidor en L 2x2",
+      "imagenes": [
+        "Adobe_Express_20231102_1145180_1.png",
+        "Adobe_Express_20231102_1145460_1.png",
+        "Adobe_Express_20231102_1146290_1.png"
+      ],
+      "descripcion": "Vestidor L 2x2 \n2 módulos \n8 cajones \n8 estantes\n2 percheros\nColor blanco o madera.\nCategoría: Vestidores"
+    },
+    {
+      "id": "a6346146-54ef-41ae-ba0c-f2d07658c251",
+      "nombre": "Vestidor en u",
+      "imagenes": [
+        "Adobe_Express_20231102_1122320_1.png",
+        "Adobe_Express_20231102_1122590_1.png",
+        "Adobe_Express_20231102_1123440_1.png",
+        "Adobe_Express_20231102_1124050_1.png",
+        "Adobe_Express_20231102_1124370_1.png",
+        "Adobe_Express_20231102_1125260_1.png",
+        "Adobe_Express_20231102_1126010_1.png",
+        "Adobe_Express_20231102_1126510_1.png"
+      ],
+      "descripcion": "Vestidor U 4x4 \n2 módulos \n10 cajones \n4 estantes\n2 bandejas \n4 percheros\n2 pantaloneras \n1 baulera \nColor blanco o madera.\nCategoría: Vestidores"
+    },
+    {
+      "id": "77ef99a3-b981-43d3-8acc-bf1b37ce93a4",
+      "nombre": "Vestidor enfrentados 2.50x250x250",
+      "imagenes": [
+        "Adobe_Express_20231107_1327060_1.png",
+        "Adobe_Express_20231107_1327230_1.png",
+        "Adobe_Express_20231107_1327440_1.png",
+        "Adobe_Express_20231107_1327580_1.png",
+        "Adobe_Express_20231107_1328140_1.png"
+      ],
+      "descripcion": "Vestidor enfrentados 250x250x250\n10 cajones \n4 percheros\n4 estantes \n4 bandejas \n2 bauleras \nBlanco o color madera.\nCategoría: Vestidores"
+    },
+    {
+      "id": "7b742fe0-89d1-41db-bc6f-f8f4e779c1d1",
+      "nombre": "Vestidor enfrentados 250x200x250_",
+      "imagenes": [
+        "Adobe_Express_20231102_1153450_1.png",
+        "Adobe_Express_20231104_1817110_1.png",
+        "Adobe_Express_20231104_1817530_1.png",
+        "Adobe_Express_20231104_1818400_1.png",
+        "Adobe_Express_20231104_1819210_1.png"
+      ],
+      "descripcion": "Vestidor enfrentados 250x200x250\n8 cajones \n4 percheros\n8 estantes \n12 cubos \nBlanco o color madera.\nCategoría: Vestidores"
+    },
+    {
+      "id": "8a542945-ba50-4b29-a7a1-490b14198101",
+      "nombre": "Vestidor L 3x2",
+      "imagenes": [
+        "Adobe_Express_20231110_1910270_1.png",
+        "Adobe_Express_20231110_1910530_1.png",
+        "Adobe_Express_20231110_1911190_1.png",
+        "Adobe_Express_20231110_1911330_1.png"
+      ],
+      "descripcion": "Vestidor L 3x2\n2 módulos \n12 cajones \n4 estantes\n2 bandejas \n2 percheros\nColor blanco o madera.\nCategoría: Vestidores"
+    }
+  ]
+}
