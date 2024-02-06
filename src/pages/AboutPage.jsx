@@ -15,10 +15,9 @@ const AboutPage = () => {
             <div className="underline"></div>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus
-            iure vel tempora laudantium molestias earum unde eius eum omnis
-            nemo. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Excepturi, repellat.
+            Biotec Amoblamientos nació en 1 de julio 2014.
+Somos una fábrica de muebles a medida y diseños estándar , nos dedicamos a la fabricación de cocina,placares y vestidores.
+Nos diferenciamos de la competencia por la atención personalizada, y la garantía de 10 años nos avalan de trabajo duro y confianza en nuestros clientes.
           </p>
         </article>
       </Wrapper>
