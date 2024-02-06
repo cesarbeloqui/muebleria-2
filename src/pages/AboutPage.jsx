@@ -16,7 +16,7 @@ const AboutPage = () => {
           </div>
           <p>
             Biotec Amoblamientos nació en 1 de julio 2014.
-Somos una fábrica de muebles a medida y diseños estándar , nos dedicamos a la fabricación de cocina,placares y vestidores.
+Somos una fábrica de muebles a medida y diseños estándar, nos dedicamos a la fabricación de cocina, placares y vestidores.
 Nos diferenciamos de la competencia por la atención personalizada, y la garantía de 10 años nos avalan de trabajo duro y confianza en nuestros clientes.
           </p>
         </article>
