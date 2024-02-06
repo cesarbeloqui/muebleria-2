@@ -15,7 +15,7 @@ const Hero = () => {
           confianza de nuestros clientes nos avalan.
         </p>
         <Link to="/productos" className="btn hero-btn">
-          Mira Nuestros produtos
+          Mira Nuestros productos
         </Link>
       </article>
       <article className="img-container">
