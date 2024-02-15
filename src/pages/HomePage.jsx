@@ -11,7 +11,6 @@ import fondoHeader from "../assets/fondoHeader.png";
 import { useState } from "react";
 
 const HomePage = () => {
-
   return fondoHeader ? (
     <Wrapper backgroundImage={fondoHeader}>
       <main className="main">
