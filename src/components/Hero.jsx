@@ -3,17 +3,20 @@ import styled from "styled-components";
 import { Link } from "react-router-dom";
 import heroBcg from "../assets/hero-bcg.png";
 import heroBcg2 from "../assets/hero-bcg-2.jpg";
+import fondoHeader from "../assets/fondoHeader.png";
 
 const Hero = () => {
   return (
     <Wrapper className="section-center">
       <article className="content">
-        <h1>Fábrica de muebles a medida</h1>
-        <p>
-          Muebles de cocina, placares y vestidores. <br />
-          La atención personalizada, la garantía de 10 años de trabajo duro y la
-          confianza de nuestros clientes nos avalan.
-        </p>
+        <div className="text">
+          <h1>Fábrica de muebles a medida</h1>
+          <p>
+            Muebles de cocina, placares y vestidores. <br />
+            La atención personalizada, la garantía de 10 años de trabajo duro y
+            la confianza de nuestros clientes nos avalan.
+          </p>
+        </div>
         <Link to="/productos" className="btn hero-btn">
           Mirá Nuestros productos
         </Link>
@@ -31,21 +34,39 @@ const Wrapper = styled.section`
   display: grid;
   place-items: center;
   margin-top: 3rem;
+  /*   background-image: url(${fondoHeader});
+  background-size: cover;
+  background-position: center; */
+
   .img-container {
     display: none;
+  }
+  .text {
+    background-color: rgba(0, 0, 0, 0.466);
+    padding: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 0;
   }
 
   p {
     line-height: 2;
     max-width: 45em;
     margin-bottom: 2rem;
-    color: var(--cuaternario);
+    color: white;
     font-size: 1rem;
   }
   @media (min-width: 992px) {
     height: calc(100vh - 5rem);
     grid-template-columns: 1fr 1fr;
     gap: 8rem;
+    padding-left: 2rem;
+    border-radius: 0 var(--radius-rounded) var(--radius-rounded) 0;
+    .text {
+      background-color: rgba(0, 0, 0, 0.466);
+      padding: 2rem;
+      margin-bottom: 1rem;
+      border-radius: var(--radius-rounded);
+    }
     h1 {
       margin-bottom: 2rem;
       font-size: 3rem;
@@ -56,13 +77,18 @@ const Wrapper = styled.section`
     .hero-btn {
       padding: 0.75rem 1.5rem;
       font-size: 0.8rem;
+      margin: 2rem;
+      box-shadow: 1px 0px 44px 0px #f7e1c6;
     }
     .hero-btn:hover {
       transform: scale(1.2);
+      box-shadow: 1px 0px 44px 0px #000000;
     }
     .img-container {
       display: block;
       position: relative;
+      box-shadow: 1px 0px 44px 0px #000000;
+      border-radius: var(--radius-rounded);
     }
     .main-img {
       width: 100%;
@@ -87,7 +113,7 @@ const Wrapper = styled.section`
       position: absolute;
       width: 10%;
       height: 80%;
-      background: var(--secundario);
+      background: var(--terciario);
       bottom: 0%;
       left: -7%;
       border-radius: var(--radius-rounded);
