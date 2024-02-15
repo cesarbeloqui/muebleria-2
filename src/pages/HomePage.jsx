@@ -1,18 +1,28 @@
 import React from "react";
-import { FeaturedProducts, Hero, Services, Contact } from "../components";
+import {
+  FeaturedProducts,
+  Hero,
+  Services,
+  Contact,
+  Loading,
+} from "../components";
 import styled from "styled-components";
 import fondoHeader from "../assets/fondoHeader.png";
+import { useState } from "react";
 
 const HomePage = () => {
-  return (
-    <Wrapper>
+
+  return fondoHeader ? (
+    <Wrapper backgroundImage={fondoHeader}>
       <main className="main">
         <Hero />
         <FeaturedProducts />
-        {/*       <Services /> */}
-        {/*       <Contact /> */}
+        {/* <Services /> */}
+        {/* <Contact /> */}
       </main>
     </Wrapper>
+  ) : (
+    <Loading />
   );
 };
 const Wrapper = styled.section`
@@ -23,7 +33,7 @@ const Wrapper = styled.section`
   /*   background-image: url(${fondoHeader});*/
   .main {
     background-size: cover;
-    background-image: url(${fondoHeader});
+    background-image: url(${(props) => props.backgroundImage});
     background-position: center;
   }
 `;
