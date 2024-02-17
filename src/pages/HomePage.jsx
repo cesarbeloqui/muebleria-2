@@ -33,7 +33,7 @@ const HomePage = () => {
 };
 const Wrapper = styled.section.attrs((props) => ({
   style: {
-    background: `linear-gradient(#0000004e, #000000c5), url(${fondoHeader}) fixed`,
+    background: `linear-gradient(#0000001f, #0000001f), url(${fondoHeader}) fixed`,
     backgroundAttachment: "fixed",
     marginTop: "2rem",
   },
