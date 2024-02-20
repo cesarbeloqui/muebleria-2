@@ -1,14 +1,48 @@
-import React from "react";
-import { FeaturedProducts, Hero, Services, Contact } from "../components";
+import {
+  FeaturedProducts,
+  Hero,
+  /*   Services,
+  Contact, */
+  Loading,
+} from "../components";
+import styled from "styled-components";
+import fondoHeader from "../assets/fondoHeader.png";
+import { useEffect } from "react";
+import { useState } from "react";
+
 const HomePage = () => {
-  return (
-    <main className="main">
-      <Hero />
-      <FeaturedProducts />
-      {/*       <Services /> */}
-      {/*       <Contact /> */}
-    </main>
+  const [loaded, setLoaded] = useState(false);
+
+  // Simula un tiempo de carga
+  useEffect(() => {
+    setLoaded(true);
+  }, []);
+
+  return loaded ? (
+    <Wrapper>
+      <main className="main">
+        <Hero />
+        <FeaturedProducts />
+        {/* <Services /> */}
+        {/* <Contact /> */}
+      </main>
+    </Wrapper>
+  ) : (
+    <Loading />
   );
 };
+const Wrapper = styled.section.attrs((props) => ({
+  style: {
+    background: `linear-gradient(#0000001f, #0000001f), url(${fondoHeader}) fixed`,
+    backgroundAttachment: "fixed",
+    marginTop: "2rem",
+  },
+}))`
+  /*   min-height: 60vh;
+  display: grid;
+  place-items: center;
+  margin-top: 3rem; */
+  /*   background-image: url(${fondoHeader});*/
+`;
 
 export default HomePage;
