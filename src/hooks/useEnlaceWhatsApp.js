@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 
-
 function generarEnlaceWhatsApp(numeroTelefono, mensaje) {
   // Formatear el número de teléfono
   const telefonoFormateado = encodeURIComponent(numeroTelefono);
@@ -41,7 +40,7 @@ const useEnlaceWhatsApp = ({ numeroTelefono, cart }) => {
         string += `- ${name} (${amount}): ${productLink}\n`;
 
         if (i === cart.length - 1) {
-          string += "Desde ya muchas gracias";
+          string += "";
         }
       }
       setMensaje(string);
@@ -49,6 +48,5 @@ const useEnlaceWhatsApp = ({ numeroTelefono, cart }) => {
   }, [cart, url]);
   return [enlaceWhatsApp, mensaje];
 };
-
 
 export default useEnlaceWhatsApp;
