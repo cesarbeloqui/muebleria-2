@@ -1,7 +1,7 @@
 {
   "carpetas": [
     {
-      "id": "7b28eaf1-7057-4a69-b08f-624d2b764310",
+      "id": "7e1cc9c5-92ef-410c-b0ec-2acd27a1069c",
       "nombre": "Cama box 6 cajones 140_190_35",
       "imagenes": [
         "Adobe_Express_20240226_2025020_1.png",
@@ -9,10 +9,10 @@
         "Adobe_Express_20240226_2025380_1.png",
         "Adobe_Express_20240226_2025550_1.png"
       ],
-      "descripcion": "Estructura mdf crudo 18mm\nTapa y revestimiento a la vista color blanco de 18mm.\n6 cajones de cada lado."
+      "descripcion": "Estructura mdf crudo 18mm\nTapa y revestimiento a la vista color blanco de 18mm.\n6 cajones de cada lado.\nCategoría: Dormitorio"
     },
     {
-      "id": "28b8f3d3-a647-4226-8a53-7436b3bfafe5",
+      "id": "ef5f986f-755d-4f3d-aecb-9a3cdd6b4ff2",
       "nombre": "Cocina con isla",
       "imagenes": [
         "Adobe_Express_20231104_1820440_1.png",
@@ -28,7 +28,7 @@
       "descripcion": "Cocina isla \nEstilo: minimalista\nColor: blanco y seda giorno\nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nManijas cilindro color negro \nIsla: 3 puertas de abrir con estantes y con ruedas. \nCategoría: Cocina"
     },
     {
-      "id": "5fa5aefb-9223-4dd7-8ea7-136b33302545",
+      "id": "fd022932-abb1-4311-b613-54e25387a9b4",
       "nombre": "Cocina con isla 2",
       "imagenes": [
         "Adobe_Express_20231104_1838550_1.png",
@@ -41,7 +41,7 @@
       "descripcion": "Cocina isla 2\nEstilo: minimalista\nColor: blanco\nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nManijas perfil c de aluminio.\nIsla: 3 puertas de abrir con estantes.\nCategoría: Cocina"
     },
     {
-      "id": "1fb0b9f9-01a0-411e-908d-ba168b12f3b9",
+      "id": "e179aeed-8615-483a-961f-a8d56cbeb506",
       "nombre": "Cocina vintage 1",
       "imagenes": [
         "Adobe_Express_20231012_2335370_1.png",
@@ -59,7 +59,7 @@
       "descripcion": "Cocina vintage simple sin manijas \nEstilo: vintage \nColor: blanco \nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nSeca plato en alacena. \nCategoría: Cocina"
     },
     {
-      "id": "65b6436f-cbcd-4464-8803-8e6a61107ae3",
+      "id": "1139c33d-af6c-4f8b-aaba-2943349d338c",
       "nombre": "Cocina vintage 3",
       "imagenes": [
         "Adobe_Express_20231113_2030330_1.png",
@@ -74,7 +74,7 @@
       "descripcion": "Cocina vintage fresado \nEstilo: vintage \nColor: blanco interior puertas azul\nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nTirador ochava. \nCategoría: Cocina"
     },
     {
-      "id": "711289b7-ebbc-48d2-8cb0-ba5e4e3d61b3",
+      "id": "184188a8-a13a-44af-a073-c5e576a9fbdf",
       "nombre": "Cocinas 120 y 2mt",
       "imagenes": [
         "Adobe_Express_20231110_1832580_1.png",
@@ -92,7 +92,7 @@
       "descripcion": "Cocina minimalista 120 140 2mt \nEstilo: minimalista \nColor: blanco o color madera\nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nManija perfil.\nCategoría: Cocina"
     },
     {
-      "id": "c5393231-c569-4423-9812-65c3e302581c",
+      "id": "f15c1fe4-548c-46a3-b75e-c52646844e24",
       "nombre": "Cocinas vintage 2",
       "imagenes": [
         "Adobe_Express_20231113_2027190_1.png",
@@ -104,7 +104,7 @@
       "descripcion": "Cocina vintage simple\nEstilo: vintage \nColor: blanco interior puertas gris \nHerrajes: herrajes con freno tanto en bisagras y telescopicas, incluye basurero.\nTirador ochava. \nSeca plato.\nCategoría: Cocina"
     },
     {
-      "id": "a1d09b72-08b0-4940-80c8-5a3f42e0cae9",
+      "id": "b05b5b38-b401-4467-9561-fe186368d2ed",
       "nombre": "Escritorio ejecutivo",
       "imagenes": [
         "Adobe_Express_20231104_1827490_1.png",
@@ -114,7 +114,7 @@
       "descripcion": "Escritorio ejecutivo\n1 cajón a lo largo.\nTerminación con cuerina y vidrio con mdf laminado.\nCategoría: Oficina"
     },
     {
-      "id": "91786d24-e5a2-44ff-bcff-2713a360efcb",
+      "id": "53894d88-c31c-4582-8db1-11fb6affe8e8",
       "nombre": "Maquillador mini 80",
       "imagenes": [
         "Adobe_Express_20231223_1549540_1.png",
@@ -124,7 +124,7 @@
       "descripcion": "Maquillador mini 80\n1 cajón \n7 focos\nIncluye vidrio y espejo.\nCategoría: Maquilladores"
     },
     {
-      "id": "411f64ed-602b-49ab-b002-38060c5c07a4",
+      "id": "9afd9e09-2b68-4ea8-a206-e0aedb7d774f",
       "nombre": "Maquillador premium 130",
       "imagenes": [
         "Adobe_Express_20231010_0806460_1.png",
@@ -133,7 +133,7 @@
       "descripcion": "Maquillador premium 130\n7 cajónes\n10 focos\nIncluye vidrio y espejo.\nCategoría: Maquilladores"
     },
     {
-      "id": "fb77b569-c959-4162-ab09-daa47f244608",
+      "id": "bf181b4c-9799-4d87-bfe1-1f73058789c1",
       "nombre": "Placard 120_180 1 Módulo",
       "imagenes": [
         "Adobe_Express_20231009_2018010_1.png",
@@ -143,7 +143,7 @@
       "descripcion": "Placard 120*180*55\n2 cajones \n6 cubos \n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Maquilladores"
     },
     {
-      "id": "ee24ef13-e557-45ff-ad4f-47b497d8d025",
+      "id": "c3b45503-2f97-4dad-a155-a47e41bd8e84",
       "nombre": "Placard 120_250_55",
       "imagenes": [
         "Adobe_Express_20231208_2108240_1.png",
@@ -153,7 +153,7 @@
       "descripcion": "Placard 120*240*55\n3 cajones \n4 estantes \n1 baulera \n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
     },
     {
-      "id": "b1900d94-2889-44be-9685-fe20ed46d94e",
+      "id": "c558245f-3671-48d9-a75b-c0c9021d7458",
       "nombre": "Placard 180_240 2 módulos",
       "imagenes": [
         "Adobe_Express_20231005_1512450_1.png",
@@ -163,7 +163,7 @@
       "descripcion": "Placard 180*240*55 \n2 módulos \n4 cajones \n8 estantes \n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
     },
     {
-      "id": "fa3c4b4a-6bd2-4b3a-a6e6-560a7be2ecd2",
+      "id": "85c7ea3f-2af0-4652-a844-93566a47e979",
       "nombre": "Placard 240 estándar",
       "imagenes": [
         "Adobe_Express_20231116_2159430_1.png",
@@ -175,7 +175,7 @@
       "descripcion": "Placard 240*180*55 \n2 módulos \n4 cajones \n8 estantes\n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
     },
     {
-      "id": "350ad30f-972d-47b1-9c7f-486b9f6282df",
+      "id": "ba0888ca-f77b-4130-8f66-dbe2189a36e6",
       "nombre": "Placard 240_240_55",
       "imagenes": [
         "Adobe_Express_20231218_2044360_1.png",
@@ -186,7 +186,7 @@
       "descripcion": "Placard 240*240*55 \n2 módulos \n4 cajones \n8 estantes\n2 percheros\n3 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
     },
     {
-      "id": "c3d815cc-0450-4b17-981f-f639416f9c47",
+      "id": "377cf536-853f-4708-a8ce-d0d729b88ae1",
       "nombre": "Placard 250_250_60",
       "imagenes": [
         "Adobe_Express_20231115_2304250_1.png",
@@ -198,7 +198,7 @@
       "descripcion": "Placard 250x250x60\n2 módulos \n6 cajones \n8 estantes\n5 percheros\n3 puertas corredizas\n4 bandejeros zapatos \nColor blanco o madera.\nCategoría: Placares"
     },
     {
-      "id": "034a3f7f-6cc8-4403-a658-01968f9d5f5b",
+      "id": "5674ab51-df02-468c-9b06-a7373913e281",
       "nombre": "Placard 300_280_60",
       "imagenes": [
         "Adobe_Express_20231024_1001160_1.png",
@@ -211,7 +211,7 @@
       "descripcion": "Placard 300x280x60\n1 baulera \n11 cajones \n8 estantes\n2 percheros\n4 puertas corredizas\n4 zapateros\nColor blanco o madera.\nCategoría: Placares"
     },
     {
-      "id": "bb169b1a-5a5a-45f7-b434-5abe2b19e668",
+      "id": "78450dc1-0177-4974-9fef-f747a3569669",
       "nombre": "Placard tv",
       "imagenes": [
         "Adobe_Express_20231102_1143100_1.png",
@@ -222,7 +222,7 @@
       "descripcion": "Placard tv 250x250x60\n3 bauleras\n8 estantes\n4 percheros\n1 espacio tv \nPuertas de abrir.\nColor blanco o madera.\nCategoría: Placares"
     },
     {
-      "id": "581ffc25-854b-4a0d-987d-9f47c544f278",
+      "id": "5eff3243-afcc-430f-adf4-6e32549d8495",
       "nombre": "Placard un módulo 180_240 un módulo",
       "imagenes": [
         "Adobe_Express_20231009_2014380_1.png",
@@ -231,7 +231,7 @@
       "descripcion": "Placard 180x240x55 un módulo\n1 módulos \n2 cajones \n4 estantes\n2 percheros\n2 puertas corredizas\nColor blanco o madera.\nCategoría: Placares"
     },
     {
-      "id": "cf5a9a69-9ae2-498e-80c4-71aa86cdb422",
+      "id": "5a5fd2e5-37cb-46b5-a84c-5b669b3505af",
       "nombre": "Rack modular",
       "imagenes": [
         "Adobe_Express_20231220_0030380_1.png",
@@ -243,7 +243,7 @@
       "descripcion": "Rack módular premium 3mt  + escritorio\n3 puertas \n3 puertas bauleras \n1 escritorio\n1 Módulo estantes \n5 estantes \nCategoría: Living"
     },
     {
-      "id": "59d6c715-a337-4e3d-9af0-53f6303f1e0a",
+      "id": "d9ba731e-7714-4616-a14f-9ad14c23d88a",
       "nombre": "Vestidor en L",
       "imagenes": [
         "Adobe_Express_20231102_1137430_1.png",
@@ -254,7 +254,7 @@
       "descripcion": "Vestidor L 3x3\n1 módulos \n5 cajones \n4 estantes\n2 bandejas \n2 percheros\n2 bandejas zapateros\n2 bandejeros módulos \nColor blanco o madera.\nCategoría: Vestidores"
     },
     {
-      "id": "245c1036-d136-4e94-aa94-23e7dee81175",
+      "id": "5603077b-264f-488a-b9c0-9298afae51ac",
       "nombre": "Vestidor en L 2x2",
       "imagenes": [
         "Adobe_Express_20231102_1145180_1.png",
@@ -264,7 +264,7 @@
       "descripcion": "Vestidor L 2x2 \n2 módulos \n8 cajones \n8 estantes\n2 percheros\nColor blanco o madera.\nCategoría: Vestidores"
     },
     {
-      "id": "573fc588-7daf-4a7d-89af-0d40fc969a1e",
+      "id": "c056e0f8-b3cb-42f2-aedc-2f23128eaf90",
       "nombre": "Vestidor en u",
       "imagenes": [
         "Adobe_Express_20231102_1122320_1.png",
@@ -279,7 +279,7 @@
       "descripcion": "Vestidor U 4x4 \n2 módulos \n10 cajones \n4 estantes\n2 bandejas \n4 percheros\n2 pantaloneras \n1 baulera \nColor blanco o madera.\nCategoría: Vestidores"
     },
     {
-      "id": "99b0055c-e013-44bd-a2e6-ca52c0f18844",
+      "id": "b56f54ad-c35f-43a5-b76d-718b43f7c45b",
       "nombre": "Vestidor enfrentados 2.50x250x250",
       "imagenes": [
         "Adobe_Express_20231107_1327060_1.png",
@@ -291,7 +291,7 @@
       "descripcion": "Vestidor enfrentados 250x250x250\n10 cajones \n4 percheros\n4 estantes \n4 bandejas \n2 bauleras \nBlanco o color madera.\nCategoría: Vestidores"
     },
     {
-      "id": "666ad342-9234-4dcc-80f2-592e3e278bc3",
+      "id": "d677dd98-cf57-464e-92a6-a92e6680d0d2",
       "nombre": "Vestidor enfrentados 250x200x250_",
       "imagenes": [
         "Adobe_Express_20231102_1153450_1.png",
@@ -303,7 +303,7 @@
       "descripcion": "Vestidor enfrentados 250x200x250\n8 cajones \n4 percheros\n8 estantes \n12 cubos \nBlanco o color madera.\nCategoría: Vestidores"
     },
     {
-      "id": "533b46a8-5495-4008-9d1f-c43b593db4d5",
+      "id": "b6900eef-af0e-4485-b0c5-89703a6aec8a",
       "nombre": "Vestidor L 3x2",
       "imagenes": [
         "Adobe_Express_20231110_1910270_1.png",
